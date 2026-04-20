@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+Pydentic
+python-dotenv
+
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+
+pypdf
+langchain-chroma
+streamlit
+
+requests
+torch --index-url https://download.pytorch.org/whl/cpu
+transformers
+accelerate

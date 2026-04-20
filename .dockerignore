@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+.env
+.ipynb_checkpoints/
+*.pyc
+
+# Exclude any local model weights if you accidentally put them in the folder
+*.bin
+*.bin.*
+*.pth
+*.pt
+model/
+checkpoint/
